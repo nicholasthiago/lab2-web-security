@@ -1,6 +1,6 @@
-# Project Name
+# Lab: Web Application Security
 
-Welcome to the Project Name repository! This project consists of a frontend folder containing a React app and a backend folder containing a Node.js app.
+Welcome to the Web Application Security repository! This project consists of a frontend folder containing a React app and a backend folder containing a Node.js app.
 
 ## Frontend
 
