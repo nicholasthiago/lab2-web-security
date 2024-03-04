@@ -40,6 +40,8 @@ function Logout({ token, onSignout }) {
 			<button onClick={handleLogout}>
 				Logout
 			</button>
+
+			<p> {error} </p>
 		</>
 	);
 }
